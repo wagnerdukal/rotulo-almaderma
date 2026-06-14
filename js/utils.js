@@ -1,5 +1,5 @@
 // ── Constantes globais ─────────────────────────────────────────────────
-const PHARMACIST = "Júlio César Gattamorta CRF: 89775";
+const PHARMACIST = "Daniela Rossi Palitti CRF: 47622";
 
 // Permissões granulares por usuário
 const PERMISSOES = [
@@ -54,11 +54,11 @@ async function api(method, endpoint, body) {
 
 // ── Paleta de cores ────────────────────────────────────────────────────
 const S = {
-  primary:      'hsl(24, 100%, 50%)',
+  primary:      'hsl(207, 75%, 60%)',
   primaryLight: 'hsl(207,69%,92%)',
   bg:           'hsl(210,50%,96%)',
   fg:           'hsl(213,40%,18%)',
-  fgMuted:      'hsl(110, 69%, 33%)',
+  fgMuted:      'hsl(207, 75%, 60%)',
   border:       'hsl(210,30%,88%)',
   borderSub:    'hsl(210,30%,92%)',
   muted:        'hsl(210,40%,94%)',
